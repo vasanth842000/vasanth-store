@@ -1,0 +1,130 @@
+<html>
+<head>   
+    <title>Vasanth store Page</title>
+    <link rel="stylesheet" href="test.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style>
+        header {
+               height: 68px;
+    font-size: small;
+    font-style: italic;
+    
+}
+
+        h4 {
+            text-align:center;
+        }
+
+        #section1 
+		{
+border: 2px solid pink;
+    margin: 10px 10px 5px 10px;
+    height: 1041px;
+    width: 296px;
+    display: inline-block;
+    background-color: powderblue;
+    font-size: larger;
+    font-style: oblique;
+        }
+
+     #section2 
+	 { 
+	 border: 2px solid pink;
+    margin: 10px 10px 5px 10px;
+    height: 1050px;
+    width: 980px;
+    display: inline-block;
+	
+    background-color: powderblue;
+    font-size: larger;
+    font-style: oblique;
+}
+ 
+button
+{
+background-color:white;
+color:
+}
+    </style>
+</head>
+<body>
+    <header>
+        <h4>WELCOME VASANTH STORE</h4>
+    </header>
+    <section id="section1">
+	
+       <center> <p><b>Department
+OnePlus</b></p> <p><center><h4>Nord CE 5G Basic Mobiles</h4></center></p></center>
+	   <ol>
+	   <p>Smartphones & Basic Mobiles </p>
+	   <b>Amazon Prime</b>
+	   <br>
+	   <input type="checkbox" value="prime" name="prime">Prime
+	   <br>
+	   <br>
+	   <b>Pay on Delivery</b>
+	   <br>
+	   <input type="checkbox" value="e" name="e">Eligible for pay on delivery
+	   <br>
+	   <br>
+	   <b>Brands</b>
+	   <br>
+	   <input type="checkbox" value="ef" name="er">OnePlus
+	   <br>
+	   <br>
+	   <b>New Arrivals</b><br>Last 30 days<br>Last 90 days
+	   <br>
+	   <br>
+	   <b>Price</b><br>Over ₹20,000
+	   <br>
+	   <br>
+	  <b>Deals</b><br>
+	  <input type="checkbox" value="e" name="r">Today's Deals<br><br>
+	  <b>Discounts</b><br>10% offer more
+	  <br>
+	  <br>
+	  <b>Seller</b>
+	  <br><input type="checkbox" value="e" name="r">vasanth mobiles<br>
+	  <input type="checkbox" value="e" name="r">virat mobiles<br>
+	  <input type="checkbox" value="e" name="r">prasad Deals<br>
+	  <input type="checkbox" value="e" name="r">Arun It Deals<br>
+	  <input type="checkbox" value="e" name="r">Kalimuthu Deals<br>
+	  <input type="checkbox" value="e" name="r">Kowsick Deals<br>
+	  <br>
+	 
+	  <b>Availability</b><br>
+	  <input type="checkbox" value="e" name="r">Include out of stock<br>
+	    </section>
+    <section id="section2">
+        <p><p><b><center></p><h4>oneplus Mobiles</h4></center></b>
+		</p><center><b>OnePlus Nord CE 5G | Available Now</b></center></>
+		<br>
+		<br>
+		<img src="n.jpg" width="30%" height=400px>
+		<img src="m.png" width="30%" height=400px>
+		<img src="y.png" width="30%" height=400px>
+	<center>
+<br><br><br><br>
+<p><i>
+onePlus 7 smartphone runs on Android v9.0 (Pie) operating system. The phone is powered by Octa core (2.84 GHz, Single core, Kryo 485 + 2.42 GHz, Tri core, Kryo 485 + 1.8 GHz, Quad core, Kryo 485) processor. It runs on the Qualcomm Snapdragon 855 Chipset. It has 6 GB RAM and 128 GB internal storage.
+
+OnePlus 7 smartphone has a Optic AMOLED display. It measures 157.7 mm x 74.8 mm x 8.2 mm and weighs 182 grams. <br>The screen has a resolution of 1080 x 2340 pixels and 402 ppi pixel density. It has an aspect ratio of 19.5:9 and screen-to-body ratio of 85.32 %. On camera front, the buyers get a 16 MP f/2.0 Primary Camera(3.1" sensor size, 1µm pixel size) and on the rear, there's an 48 MP + 5 MP camera with features like Fixed Focus. It is backed by a 3700 mAh battery. Connectivity features in the smartphone include WiFi, Bluetooth, GPS, Volte, NFC and more.
+
+<br><br><br>
+</i></p>
+<br>
+<div class="" style="text-align:center">
+<button class="btn btn-warning" onclick="clickMe()">OrderNow</button>
+</div>
+<script>
+function clickMe(){
+alert("one plus orderded successfully");
+}
+</script>
+</center>
+    </section>
+
+</body>
+</html>
+
+
